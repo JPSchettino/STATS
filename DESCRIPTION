@@ -6,5 +6,5 @@ Author: JoaoPedrojs [aut,cre]
 Maintainer: JoaoPedrojs <schettino.joaopedro@gmail.com>
 Description:chi square test for independence assumptions   
 Encoding: UTF-8
-LazyData: true
+LazyData: false
 RoxygenNote: 7.1.1
