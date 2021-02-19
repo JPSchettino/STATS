@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 export(chisq2p)
+=======
+exportPattern("^[^\\.]")
+
+
+>>>>>>> 43008bc2b3c970fbf1e08b7e0a942ef4a36cf499
