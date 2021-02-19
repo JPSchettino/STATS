@@ -2,9 +2,12 @@ Package: STATS
 Type: Package
 Title: statistical methods for sophisticated data analysis(STATS)
 Version: 0.1.0
-Author: JoaoPedrojs [aut,cre]
+License: GPL (>= 2)
+Author: JoaoPedrojs
 Maintainer: JoaoPedrojs <schettino.joaopedro@gmail.com>
 Description:chi square test for independence assumptions   
 Encoding: UTF-8
-LazyData: false
+LazyData: true
 RoxygenNote: 7.1.1
+URL: https://www.r-project.org, http://www.another.url
+BugReports: https://pkgname.bugtracker.url
