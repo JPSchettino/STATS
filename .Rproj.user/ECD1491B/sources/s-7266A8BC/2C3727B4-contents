@@ -1,1 +1,1 @@
-export(x, alpha)
+export(chisq2p)
