@@ -1,7 +1,4 @@
----
-title: "README"
-output: html_document
----
+
 # to install
 
 
