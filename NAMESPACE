@@ -1,2 +1,2 @@
-export(chisq2p,STATS)
+export(chisq2p)
 
